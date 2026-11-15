@@ -1,10 +1,10 @@
 <h1 align="center">Rishabh Raj</h1>
-<p align="center"><samp>Full-stack engineer · AI products · Mumbai, India</samp></p>
+<p align="center"><samp>Full-stack engineer · Blockchain developer · Mumbai, India</samp></p>
 <p align="center">(Open to remote roles)</p>
 
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I build AI products, web apps and small native tools, end to end. 1.6 years as a full-stack engineer at Trinitum Software Labs, where I shipped client projects from first commit to production. 1st place at Metis HyperHack 2024 and Avalanche Frontier 2024.</samp>
+  <samp>I build web apps, blockchain dApps and small native tools, end to end. 1.6 years as a full-stack engineer at Trinitum Software Labs, where I shipped client projects from first commit to production. 1st place at Metis HyperHack 2024 and Avalanche Frontier 2024.</samp>
 </p>
 
 
