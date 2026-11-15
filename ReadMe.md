@@ -1,18 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently working on New Projects<br>👯 I’m looking to collaborate on Building new things<br>🌱 I’m currently learning<br>💬 Ask me about : Bugs and ideas<br>⚡ Fun fact
+## Rishabh Raj
 
+Full-stack engineer. I build AI products, web apps and small native tools, end to end.
+Based in Mumbai, India.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Babyy-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Babyy-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Babyy-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[rishabhh.me](https://rishabhh.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rrishabhraj/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
----
-[![](https://komarev.com/ghpvc/?username=Babyy-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+**Now**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Contributing to open benchmarks for AI search APIs and to on-device AI SDKs
+- Shipping small, focused tools in public
+
+**Selected work**
+
+- [**NotchBeat**](https://github.com/Babyy-dev/NotchBeat) — a Dynamic Island–style music player for the Mac notch, and for Windows
+- [**Inference Cost Calculator**](https://inference-cost-calculator-sepia.vercel.app) — what your LLM workload costs on every provider of the same model
+- [**AI Women Safety**](https://github.com/Babyy-dev/Ai-automation-women-safety) — Raspberry Pi device with blink, gesture and voice SOS
+
+**Open source**
+
+- [RunanywhereAI/runanywhere-sdks#1325](https://github.com/RunanywhereAI/runanywhere-sdks/pull/1325) — structured JSON output for the web SDK
+- [openbenchmarks-labs/web-search-for-coding-agents#22](https://github.com/openbenchmarks-labs/web-search-for-coding-agents/pull/22) — saved judge evidence and offline replay
+
+**Before this**
+
+1.6 years as a full-stack engineer at Trinitum Software Labs. 1st at Metis HyperHack 2024 and Avalanche Frontier 2024.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,tailwind,nodejs,fastapi,flutter,postgres,mongodb,redis,docker,aws&perline=13" alt="TypeScript, Python, React, Next.js, Tailwind, Node.js, FastAPI, Flutter, PostgreSQL, MongoDB, Redis, Docker, AWS" height="36">
