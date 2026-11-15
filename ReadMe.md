@@ -31,8 +31,7 @@
 <h2 align="center">🚀 Selected Work</h2>
 <p align="center">
   <a href="https://github.com/Babyy-dev/NotchBeat"><b>NotchBeat</b></a> — a Dynamic Island–style music player for the Mac notch, and for Windows<br>
-  <a href="https://inference-cost-calculator-sepia.vercel.app"><b>Inference Cost Calculator</b></a> — what your LLM workload costs on every provider of the same model<br>
-  <a href="https://github.com/Babyy-dev/Ai-automation-women-safety"><b>AI Women Safety</b></a> — Raspberry Pi device with blink, gesture and voice SOS
+  <a href="https://inference-cost-calculator-sepia.vercel.app"><b>Inference Cost Calculator</b></a> — what your LLM workload costs on every provider of the same model
 </p>
 
 
