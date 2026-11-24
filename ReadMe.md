@@ -3,7 +3,7 @@
 
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I build web apps, blockchain dApps and small native tools, from idea to production. Give me a rough idea on Monday and you'll have something real to click by Friday. I think like a founder and build like an engineer: find the real problem, cut the scope, ship it, then make it solid.</samp>
+  <samp>Most of my best work started with &quot;wait, why doesn't this exist yet?&quot; Give me a rough idea on Monday and you'll have something real to click by Friday. I think like a founder and build like an engineer: find the real problem, cut the scope, ship it, then make it solid.</samp>
 </p>
 
 
