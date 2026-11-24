@@ -3,7 +3,7 @@
 
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I build web apps, blockchain dApps and small native tools, from idea to production. I enjoy contributing to open source and turning rough ideas into products people actually use. 1st place at Metis HyperHack 2024 and Avalanche Frontier 2024.</samp>
+  <samp>I build web apps, blockchain dApps and small native tools, from idea to production. Give me a rough idea on Monday and you'll have something real to click by Friday. I care less about perfect code and more about shipping things people actually use.</samp>
 </p>
 
 
