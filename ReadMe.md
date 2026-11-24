@@ -1,6 +1,5 @@
 <h1 align="center">Rishabh Raj</h1>
 <p align="center"><samp>Full-stack engineer · Blockchain developer · Mumbai, India</samp></p>
-<p align="center">(Open to remote roles)</p>
 
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
@@ -39,6 +38,12 @@
 <p align="center">
   <a href="https://github.com/RunanywhereAI/runanywhere-sdks/pull/1325">RunanywhereAI/runanywhere-sdks#1325</a> — structured JSON output for the web SDK<br>
   <a href="https://github.com/openbenchmarks-labs/web-search-for-coding-agents/pull/22">openbenchmarks-labs/web-search-for-coding-agents#22</a> — saved judge evidence and offline replay
+</p>
+
+
+<h2 align="center">📈 Contribution Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Babyy-dev&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 </p>
 
 
